@@ -3,5 +3,7 @@ This repository contains different programming languages that I used for machine
 1. Octave is software featuring a high-level programming language, primarily intended for numerical computations. Octave helps in solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with MATLAB
 2. Python for machine learning.
 3. Python libraries - NumPy, Pandas, Matplotlib, Seaborn
-4. Pytorch - A deep learning framework.
+4. Pytorch - A deep learning framework. 
+  - What is PyTorch?
+  - Creating simple neural network using PyTorch
 5. 
