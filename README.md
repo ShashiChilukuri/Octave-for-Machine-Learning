@@ -4,6 +4,7 @@ This repository contains different programming languages that I used for machine
 2. Python for machine learning.
 3. Python libraries - NumPy, Pandas, Matplotlib, Seaborn
 4. Pytorch - A deep learning framework
-  - What is PyTorch?
-  - Creating simple neural network using PyTorch
+  - Installation
+  - Core Components
+  - Creating a neural network
 5. 
