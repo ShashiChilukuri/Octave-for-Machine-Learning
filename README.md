@@ -9,6 +9,6 @@ This repository contains different programming languages that I used for machine
   - Tensors
   - Quick Neural Network Background
   Part2:
-  -
+  - 
   - Creating a neural network
 5. 
