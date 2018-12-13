@@ -7,8 +7,9 @@ This repository contains different programming languages that I used for machine
   - Part1:
     - Installation
     - Tensors
-  Part2:
-  - Quick Neural Network Background
-  - Core components
-  - Creating a neural network
+  - Part2:
+    - Quick Neural Network Background
+    - Core components
+  - Part3:
+  - Steps to create a neural network in PyTorch
 5. 
