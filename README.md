@@ -7,8 +7,8 @@ This repository contains different programming languages that I used for machine
   - Part1:
     - Installation
     - Tensors
-    - Quick Neural Network Background
   Part2:
-  - 
+  - Quick Neural Network Background
+  - Core components
   - Creating a neural network
 5. 
